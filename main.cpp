@@ -68,8 +68,5 @@ int main() {
 	n->next->next->next->next->random = n;
 	auto p = s.copyRandomList(n);
 
-	TreeSolution t;
-
-
 	return 0;
 }
